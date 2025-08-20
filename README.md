@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snadun319-netizen&label=Profile%20views&color=0e75b6&style=flat" alt="snadun319-netizen" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
-
 - 🤝 I’m undergraduate at **Sabaragamuwa University of Sri Lanka**
+
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **snadun319@gmail.com**
 
